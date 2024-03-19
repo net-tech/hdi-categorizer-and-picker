@@ -1,5 +1,3 @@
-// Copyright (c) 2024 Aleksandar Vasilić. All rights reserved.
-
 use rand::Rng;
 
 fn main() {
